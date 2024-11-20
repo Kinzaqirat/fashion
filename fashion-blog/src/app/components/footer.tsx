@@ -29,7 +29,7 @@ return(
     
 </ul>
 
-<div className="w-[1500px] bg-black h-[90px] max-sm:w-[380px]">
+<div className="w-[100vw] bg-black h-[90px] max-sm:w-[380px]">
 <ul className="p-3 flex justify-center gap-14">
     <li style={{fontFamily:"Updock Static "}} className="font-medium text-white">TERMS OF USE</li>
     <li style={{fontFamily:"Updock Static"}} className="font-medium text-white">PRIVACY POLICY</li>

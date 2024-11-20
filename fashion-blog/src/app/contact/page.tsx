@@ -3,7 +3,7 @@ export default function Contact(){
         <div className="flex justify-center">
 
 
-        <div className="bg-dark-purple w-[600px] h-[550px] mt-10 rounded-lg  shadow bounce-in-top ">
+        <div className="bg-dark-purple w-[600px] h-[550px] mt-10 rounded-lg  shadow bounce-in-top  max-sm:h-[700px]">
     
     
     <p style={{fontFamily:"Updock Static"}} className="flex text-center p-6 font-semibold text-md">
@@ -70,7 +70,7 @@ export default function Contact(){
   </div>
 
   <div className="mt-6 flex items-center justify-end gap-x-6  ">
-    <button type="button" className="text-sm font-semibold leading-6 text-gray-900 max-sm:mb-4 max-sm:mb-36">Cancel</button>
+    <button type="button" className="text-sm font-semibold leading-6 text-gray-900 max-sm:mb-36">Cancel</button>
     <button type="submit" className="rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 mr-5 max-sm:mb-36">Save</button>
   </div>
 </form>

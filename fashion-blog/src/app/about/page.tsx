@@ -4,10 +4,10 @@ export default function About(){
 <div className="flex justify-center">
 
 
-    <div className="bg-dark-purple w-[550px] h-[300px] mt-10 rounded-lg  shadow bounce-in-top">
+    <div className="bg-dark-purple w-[550px] h-[300px] mt-10 rounded-lg max-sm:h-[400px] shadow bounce-in-top">
 
 
-<p className="flex text-center p-6 max-sm:text-[12px]" >
+<p className="flex text-center p-6 max-sm:text-[12px] object-contain" >
  
 
 Welcome to Fresh it up, your go-to destination for all things fashion! We’re a team of passionate style 
